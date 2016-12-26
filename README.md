@@ -18,8 +18,8 @@
 ## 使用
 
 ```
-npm install
-npm start
+    npm install
+    npm start
 ```
 
 ## 版本
